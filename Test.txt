@@ -1,9 +1,0 @@
-<<<<<<< Updated upstream
-Test
-=======
-Test
-
-test2test2
->>>>>>> Stashed changes
-
-Yo bitches;
