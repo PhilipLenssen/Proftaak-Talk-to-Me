@@ -1,4 +1,4 @@
-package com.ebekoudijs.cohrobotics;
+package com.ebekoudijs.proftaak;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.ebekoudijs.cohrobotics", appContext.getPackageName());
+        assertEquals("com.ebekoudijs.proftaak", appContext.getPackageName());
     }
 }

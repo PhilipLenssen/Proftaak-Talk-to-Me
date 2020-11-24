@@ -1,4 +1,4 @@
-package com.ebekoudijs.cohrobotics;
+package com.ebekoudijs.proftaak;
 
 import org.junit.Test;
 
